@@ -1,0 +1,20 @@
+{
+  "name": "Aiojs-Furry",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@danielcobo/init": "^1.0.21",
+    "aoi.js": "^5.0.5",
+    "discord.js": "^13.3.1",
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "random": "^3.0.6"
+  }
+}
